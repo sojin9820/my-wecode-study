@@ -1,0 +1,76 @@
+.profile{
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-size: 250;
+    font-weight: 400;
+    margin: 50px 20px 0px 10px;
+}
+.Myfavoritemovie{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items : center;
+    flex-wrap: nowrap;
+    order:  1;
+    margin: 50px 20px 0px 10px;
+}
+
+.Myfavoritetraveljapan{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items : center;
+    flex-wrap: nowrap;
+    order:  1;
+    margin: 50px 20px 0px 10px;
+}
+
+.Myfavoritetravelvietnam{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items : center;
+    flex-wrap: nowrap;
+    order:  1;
+    margin: 50px 20px 0px 10px;
+}
+
+.MyfavoritetravelGangneungsi{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items : center;
+    flex-wrap: nowrap;
+    order:  1;
+    margin: 50px 20px 0px 10px;
+}
+
+.Myfavoritemovie img:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
+
+ .Myfavoritetraveljapan img:hover{
+    transform: scale(1.4);
+ } 
+
+ .Myfavoritetravelvietnam img:hover{
+    transform: scale(1.4);
+ } 
+
+ .MyfavoritetravelGangneungsi img:hover{
+    transform: scale(1.4);
+ } 
+
+ .footer{
+    text-align: center;
+    background-color: antiquewhite;
+ }
+
+ .header{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 40px;
+    font-family:cursive
+ }
