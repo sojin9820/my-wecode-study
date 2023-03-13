@@ -1,0 +1,21 @@
+.INFINITE{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: oblique;
+    color: black;
+}
+
+.p{
+    text-align: left;
+}
+
+.jsDescription {
+    text-indent: 50px;
+  }
+  .blockquote {
+    text-align: center;
+  }
+  p {
+    text-indent: 50px;
+  }
